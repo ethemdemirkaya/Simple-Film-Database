@@ -1,0 +1,3 @@
+C:/Users/Ethem/CLionProjects/FilmDatabase/cmake-build-debug/CMakeFiles/FilmDatabase.dir
+C:/Users/Ethem/CLionProjects/FilmDatabase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ethem/CLionProjects/FilmDatabase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
